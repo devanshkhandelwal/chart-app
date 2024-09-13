@@ -33,19 +33,13 @@ Ensure you have the following installed:
    npm install
    ```
 
-3. Create a `.env.local` file in the `frontend/` directory with the following content (replace with actual values if necessary):
-
-   ```env
-   NEXT_PUBLIC_API_BASE_URL=http://localhost:8000/api
-   ```
-
-4. Run the development server:
+3. Run the development server:
 
    ```bash
    npm run dev
    ```
 
-5. Access the application at `http://localhost:3000`.
+4. Access the application at `http://localhost:3000`.
 
 ### Libraries Used
 
